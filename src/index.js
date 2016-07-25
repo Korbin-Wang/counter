@@ -1,2 +1,2 @@
 // import './lily/src/index';
-import './accumulator/src/index';
+import './counter/src/index';
