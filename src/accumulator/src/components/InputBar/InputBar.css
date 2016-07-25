@@ -1,0 +1,15 @@
+:local .inputBar {
+  width: 90px;
+  height: 25px;
+  border-radius: 10px;
+  /*color: white;
+  background-color: black;*/
+  text-align: center;
+  vertical-align: middle;
+  margin: 12px;
+}
+
+:local .submitButton {
+  height: 28px;
+  border-radius: 10px;
+}

@@ -1,0 +1,22 @@
+:local .container{
+
+}
+
+:local .first {
+  width: inherit;
+  height: inherit;;
+  display: flex;
+  /*flex-direction: column;*/
+  justify-content: center;
+  align-items: center;
+}
+
+:local .second {
+  width: inherit;
+  height: inherit;;
+  display: flex;
+  /*flex-direction: column;*/
+  justify-content: center;
+  align-items: center;
+}
+/*span for inline*/

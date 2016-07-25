@@ -1,0 +1,19 @@
+:local .roundButton {
+  text-align: center;
+  line-height: 2em;
+  border: 0;
+  outline: 0;
+  cursor: pointer;
+  font-size: 1.5em;
+  background: black;
+  color: white;
+  width: 2em;
+  height: 2em;
+  border-radius: 50%;
+  box-shadow: 0.125em 0.125em 0 0 white, 0.125em 0.125em 0 1px black;
+}
+
+:local .roundButton:active {
+  box-shadow: 0 0 0 1px white, 0 0 0 1px black;
+  transform: translate(0.125rem, 0.125rem);
+}

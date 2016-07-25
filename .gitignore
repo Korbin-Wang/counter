@@ -1,0 +1,4 @@
+dist/
+node_modules/
+server-compiled.js
+.DS_Store
